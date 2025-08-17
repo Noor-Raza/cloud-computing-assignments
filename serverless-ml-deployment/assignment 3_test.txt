@@ -1,0 +1,9 @@
+{
+  "queryStringParameters": {
+    "feature_1": "1.00065768",
+    "feature_2": "-0.00113819",
+    "feature_3": "-1.00110224",
+    "feature_4": "2.01838261",
+    "feature_5": "-0.49898405"
+  }
+}
